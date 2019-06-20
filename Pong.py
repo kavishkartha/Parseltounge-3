@@ -1,6 +1,6 @@
 # Pong with Pygame
-# 1 player or 2 player modes avaibles
-# First to 1 wins
+# 1 player or 2 player modes avaible
+# First to score 1 point wins
 # See foo.mp3 for music download
 # Song: Lucid Dreams by Juice WRLD
 import pygame, sys
